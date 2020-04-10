@@ -1,0 +1,10 @@
+.classpath
+.project
+.idea
+*.iml
+target/
+.settings/
+.gitignore
+!/.gitignore
+msf_loan.mwb.bak
+msf-manager-web/src/main/profiles/local/
